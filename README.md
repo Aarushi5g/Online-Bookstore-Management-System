@@ -17,6 +17,7 @@ To run this system you will need :
 - 📗 Python
 - 📕 Flask
 - 📘 SQLALCHEMY
+- 📒 PHPMyAdmin
 
 Assuming you have Python, proceed to install the rest using the command below:
 
@@ -42,10 +43,17 @@ The current information of an added book can be updated quickly.
 
 [![Screenshot-2021-09-12-134438.png](https://i.postimg.cc/65PCyrQq/Screenshot-2021-09-12-134438.png)](https://postimg.cc/XpwrPyd6)
 
+### 🖥️ MySQL database using the WAMP server
+
+Here, WAMP is bundle of package to install MySQL and PHP. Whereas PHPMyAdmin is the GUI to handle and perform all the operations of the MySQL Database.
+
+[![Screenshot-2021-09-12-162217.png](https://i.postimg.cc/vThgM07m/Screenshot-2021-09-12-162217.png)](https://postimg.cc/PvLrQzRG)
+
 # 💻 Built using
 - Flask
 - SQLAlchemy
 - Bootstrap
+- WAMP Server
 
 # 📃License
 
