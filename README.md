@@ -49,4 +49,4 @@ The current information of an added book can be updated quickly.
 
 # 📃License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the License file for the details.
